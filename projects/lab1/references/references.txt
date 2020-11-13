@@ -1,0 +1,10 @@
+* AB_NYC_2019.csv obtenido de kaggle: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+* Airbnb Analysis, Visualization and Prediction (2019): https://www.kaggle.com/chirag9073/airbnb-analysis-visualization-and-prediction
+* Bodas, D (2020) Temario Machine Learning. Colegio Universitario de Estudios Financieros (Madrid)
+* Detailed exploratory data analysis with python (2016): https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python
+* Garcia, Y (2020) Temario Programacion con Python. Colegio Universitario de Estudios Financieros (Madrid)
+* Matplotlib org https://matplotlib.org/3.3.2/tutorials/colors/colormaps.html
+* Pandas documentation (2020) https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.hist.html
+* Seaborn.  Visualizing distributions of data https://seaborn.pydata.org/tutorial/distributions.html
+* The Dummy’s Guide to Creating Dummy Variables (2017) https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40
+* Visualizing distributions of data obtenido de seaborn: https://seaborn.pydata.org/tutorial/distributions.html
